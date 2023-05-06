@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TheSuricate
 - 👀 I’m interested in Python mostly, but also other programming topics in general.
-- 🌱 I’m currently learning Python.
 
 <!---
 TheSuricate/TheSuricate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
